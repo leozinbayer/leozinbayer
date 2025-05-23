@@ -10,5 +10,5 @@
   -  Olá, meu nome é leo bayer 
   -  Estou interessado em aprender e ensinar novas linguagens
  
-- <img src=" https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/>
+- <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" width="40" height="40"/>
  <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css " width="40" height="40"/>
